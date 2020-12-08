@@ -1,0 +1,7 @@
+{
+  "name": "ScannerIonic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
